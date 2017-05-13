@@ -1,2 +1,2 @@
 # Hello-World
-It's just a repository
+一个基于bootstrap的响应式页面
